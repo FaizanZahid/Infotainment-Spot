@@ -2,7 +2,7 @@
 ### An online hub for Knowledge and Entertainment.
 ####[SEE DEMO HERE ](http://infospot.imagesimulator.webege.com/Home.html "http://infospot.imagesimulator.webege.com/Home.html") 
 
-![Alt text](https://dl-web.dropbox.com/get/My%20Projects%20screenshots/infotainmentspot.png?_subject_uid=45886532&w=AADq8O9l6WWsVLDpRXbanVjB0sQoGjfmlmix3jxuCQkwPQ "Optional title")
+![](https://www.dropbox.com/s/2qcse5zam97j9qw/infotainmentspot.png?raw=1 "Optional title")
 
 
 Inspired from the idea of 9GAG and other fun promoting websites, I made this as a hobby project in my Human Computer Interaction Course.
